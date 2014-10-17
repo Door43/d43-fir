@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fir:home|Door43 (fir)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fir|d43-fir repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fir/archive/master.zip|d43-fir.zip]]
+
+**Recent Changes**
+{{changes>ns = fir}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fir|Ethnologue data]]
+
